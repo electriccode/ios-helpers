@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Mobilemerit. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 class AppHelper {
     
